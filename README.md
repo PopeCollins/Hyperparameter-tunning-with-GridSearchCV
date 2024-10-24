@@ -10,4 +10,9 @@ In this project i'm using GridSearchCV in Scikit-learn in selecting the best par
 The data used was downloaded  [Kaggel](https://www.kaggle.com/datasets/prathamtripathi/regression-with-neural-networking?resource=download)
 
 
+The model was specified also with the hyperparameter and the performance matric. In this example i used r2 and rmse scoring matrics.
+
+
+
+For further scoring matrics [scoring Matrics](https://scikit-learn.org/1.5/modules/model_evaluation.html)
 
