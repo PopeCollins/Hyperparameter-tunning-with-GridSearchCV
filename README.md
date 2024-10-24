@@ -14,5 +14,5 @@ The model was specified also with the hyperparameter and the performance matric.
 
 
 
-For further scoring matrics [scoring Matrics](https://scikit-learn.org/1.5/modules/model_evaluation.html)
+For further scoring matrics [Scoring-Matrics](https://scikit-learn.org/1.5/modules/model_evaluation.html)
 
