@@ -5,5 +5,7 @@ This is where hyperparameter tuning comes in. The process of getting the best pa
 
 In this project i'm using GridSearchCV in Scikit-learn in selecting the best paramater for training model.
 
+The data used was downloaded[Kaggel](https://www.kaggle.com/datasets/prathamtripathi/regression-with-neural-networking?resource=download)
+
 
 
