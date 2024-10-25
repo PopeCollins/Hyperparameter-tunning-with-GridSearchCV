@@ -1,4 +1,4 @@
-# Hyperparameter Tunning Wwith GridSearchCV
+# Hyperparameter Tunning With GridSearchCV
 
 Selecting the parameter that fits best into a model may sometimes require further validation and checking to see if the parameter will contribute greatly to the model.
 
